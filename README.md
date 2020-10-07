@@ -1,1 +1,1 @@
-# OpenVIno-Object-Detection-Sample-
+# OpenVino-Object-Detection-Sample-
