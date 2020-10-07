@@ -1,5 +1,5 @@
 # OpenVino-Object-Detection-Sample- (GUI) 
 
--Provide a friedly GUI to the users 
+-Provide an user-friendly GUI 
 
 -Adding the labeling features to the box
